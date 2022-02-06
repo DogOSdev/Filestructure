@@ -1,6 +1,6 @@
-# DogOS Filesystem
+# DogOS Filestructure
 
-The filesystem will have 2 main drives: `0` and `1`
+The Filestructure will have 2 main drives: `0` and `1`
 
 The `0` drive will hold critical files needed by the system, like user information and system files.
 
@@ -85,4 +85,4 @@ Holds system files, apps, and other information about the Operating System. This
 This holds user's files. This could be compared to the Unix `home` folder or the Window's `Users` folder. View the `1/home` folder to check out how that directory tree is formed.
 
 ## Final Thoughts
-That's the planned filesystem for DogOS. Any improvements are welcome, just make a fork and pull request.
+That's the planned filestructure for DogOS. Any improvements are welcome, just make a fork and pull request.
